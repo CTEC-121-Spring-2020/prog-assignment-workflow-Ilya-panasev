@@ -6,9 +6,9 @@ create a main function and add print statements to it
 """
 
 """ IPO template
-Input(s): list/description
-Process: description of what function does
-Output: return value and description
+Input(s): name, location/occupation
+Process: inputs name and location/occupation to ask the name where they work.
+Output: sentence that states name and location/ocupation
 """
 
 def main(name, location):
